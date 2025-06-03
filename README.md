@@ -21,14 +21,3 @@
 
 - Website: [tommustbe12.com](https://tommustbe12.com)
 - YouTube: [TomMustBe12](https://youtube.com/@tommustbe12)
-
-### Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/tommustbe12com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tommustbe12com&repo=customrecipes&theme=tokyonight" /></a>
-  <!-- more pinned repos later -->
-</p>
-
----
-
-<p align="center">Thanks for stopping by!</p>
