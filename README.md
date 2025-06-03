@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm TomMustBe12</h1>
-### Just a guy who loves coding and making cool stuff</h3>
+<h1>Hi, I'm TomMustBe12</h1>
 
 ### Languages I Use Most
 
