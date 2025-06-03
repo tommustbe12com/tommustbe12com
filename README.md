@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm TomMustBe12</h1>
-<h3 align="center">Just a guy who loves coding and making cool stuff</h3>
-
----
+### Just a guy who loves coding and making cool stuff</h3>
 
 ### Languages I Use Most
 
