@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm TomMustBe12</h1>
 
 <p align="center">
-  <img src="https://countxr.tommustbe12.com/api/counter/13fcf6611f6ccf56?style=dark&label=Website%20Views" alt="Countxr Views" width="300px"/>
-</p>
-
-<p align="center">
   Developer • Creator • Builder
 </p>
 
